@@ -1,7 +1,7 @@
 # cmpe273_spynapp
 
-  Python Application is Spyne Toolkit (http://spyne.io/)
-  Input is a HTTPRPC call and output it JSON
+  Python Application is Spyne Toolkit (http://spyne.io/).
+  Input message type is  HTTPRPC  and output message type is JSON
   
 Installation
 ============
