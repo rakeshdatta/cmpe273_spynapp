@@ -5,15 +5,18 @@
   
 Installation
 ============
-  Clone repository, create virtualenv and install requirements:
-  sudo pip install -r requirements.txt
+  Clone repository, create virtualenv and install requirements.
+  
+  'sudo pip install -r requirements.txt'
 
 Usage
 =====
   Run the wsgi server along with the app using './app.py'.
+  
   curl 'http://127.0.0.1:8000/checkcrime?lat=<latitude value>lon=<longitude value>&radius=<radius value>
 
-  Here is a Spyne call example
+  Here is a Spyne call example:
+  
   curl 'http://127.0.0.1:8000/checkcrime?lat=37.334164&lon=-121.884301&radius=0.02'
 
  
