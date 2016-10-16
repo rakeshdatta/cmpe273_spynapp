@@ -1,5 +1,8 @@
 # cmpe273_spynapp
 
+  Python Application is Spyne Toolkit (http://spyne.io/)
+  Input is a HTTPRPC call and output it JSON
+  
 Installation
 ============
   Clone repository, create virtualenv and install requirements:
@@ -13,6 +16,7 @@ Usage
   Here is a Spyne call example
   curl 'http://127.0.0.1:8000/checkcrime?lat=37.334164&lon=-121.884301&radius=0.02'
 
+ 
   OUTPUT:
   {
 	"event_time_count": {
