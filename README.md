@@ -13,7 +13,7 @@ Usage
 =====
   Run the wsgi server along with the app using './app.py'.
   
-  curl 'http://127.0.0.1:8000/checkcrime?lat=<latitude value>lon=<longitude value>&radius=<radius value>
+  curl 'http://127.0.0.1:8000/checkcrime?lat=value&lon=value&radius=value"
 
   Here is a Spyne call example:
   
